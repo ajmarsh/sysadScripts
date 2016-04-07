@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DATERUN=`/bin/date +%Y%m%d`
+MAILTO=amarsh@ajmarsh.com
+HOST=`hostname`
